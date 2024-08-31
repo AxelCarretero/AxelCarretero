@@ -1,5 +1,5 @@
 ## Hi there 👋
-/github/:topic<commits|last-commit>/:owner/:repo/:ref?
+
 <!--
 **AxelCarretero/AxelCarretero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
