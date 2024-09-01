@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Axel! 👋
+
+Highly disciplined professional with a strong work ethic and a results-oriented approach. Committed to
+excellence and continuous improvement, capable of managing multiple tasks and projects efficiently. Possess a
+strong sense of self-discipline, allowing me to maintain focus and meet deadlines even in high-pressure
+environments.
 
 <!--
 **AxelCarretero/AxelCarretero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
